@@ -132,7 +132,6 @@ body {
   }
   
 
-  
   .navbar{
     display: flex;
     align-items: center;
@@ -158,6 +157,7 @@ body {
   
   a
   {
+    
     text-decoration: none;
     color: #555;
   }
