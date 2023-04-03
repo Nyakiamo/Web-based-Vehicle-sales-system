@@ -4,7 +4,6 @@
 	<title>Registration</title>
 	<link rel="stylesheet" type="text/css" href="signup.css">
 	
-	
 </head>
 <body>
 		<div class = "navbar">
